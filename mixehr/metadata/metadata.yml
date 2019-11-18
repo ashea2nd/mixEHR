@@ -1,0 +1,22 @@
+metadata_version: 1
+name: Inferring multimodal latent topics of electronic health records (Li et al.,
+  2019)
+description: "This capsule contains the scripts that reproduce the figures in the
+  manuscript titled \"Inferring multimodal latent topics of electronic health records\".
+  \n\nThe manuscript is currently under peer review for publication in Nature Communications."
+authors:
+- name: Yue Li
+  affiliations:
+  - name: McGill University
+- name: Yuri Ahuja
+  affiliations:
+  - name: Harvard University
+- name: Jose Davila-Velderrain
+  affiliations:
+  - name: Massachusetts Institute of Technology
+- name: Manolis Kellis
+  affiliations:
+  - name: Massachusetts Institute of Technology
+corresponding_contributor:
+  name: Yue Li
+  email: yueli@cs.mcgill.ca
